@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiarati00wolfgoog_0127.png"; bbox 0 0 4834 5634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 457 1714 1877 2545">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 457 1714 1877 2545">
+     <span class='ocr_line' id='line_1_1' title="bbox 457 1714 1838 2091; baseline 0.019 -29"><span class='ocrx_word' id='word_1_1' title='bbox 457 1714 1690 2073; x_wconf 66' lang='lat' dir='ltr'>&#39;vfflLosoPfflA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1836 2088 1838 2091; x_wconf 76' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 654 2160 1877 2545; baseline -0.002 -182"><span class='ocrx_word' id='word_1_3' title='bbox 654 2160 1527 2545; x_wconf 53' lang='lat' dir='ltr'>RATIQALIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1874 2278 1877 2283; x_wconf 93' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 424 2586 1727 3025">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 424 2586 1727 3025">
+     <span class='ocr_line' id='line_1_3' title="bbox 424 2586 1727 3025; baseline 0.003 -4"><span class='ocrx_word' id='word_1_5' title='bbox 424 2586 1727 3025; x_wconf 85' lang='lat' dir='ltr'><strong>LOGICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2422 5634">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2422 5634">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2422 5634; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2422 5634; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
